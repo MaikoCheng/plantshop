@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/plantshop/static/css/main.0d1eccf8.chunk.css",
-    "main.js": "/plantshop/static/js/main.c8f288c0.chunk.js",
-    "main.js.map": "/plantshop/static/js/main.c8f288c0.chunk.js.map",
+    "main.js": "/plantshop/static/js/main.ded9bc5b.chunk.js",
+    "main.js.map": "/plantshop/static/js/main.ded9bc5b.chunk.js.map",
     "runtime-main.js": "/plantshop/static/js/runtime-main.fb4ec0e8.js",
     "runtime-main.js.map": "/plantshop/static/js/runtime-main.fb4ec0e8.js.map",
     "static/js/2.c69bdbcf.chunk.js": "/plantshop/static/js/2.c69bdbcf.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fb4ec0e8.js",
     "static/js/2.c69bdbcf.chunk.js",
     "static/css/main.0d1eccf8.chunk.css",
-    "static/js/main.c8f288c0.chunk.js"
+    "static/js/main.ded9bc5b.chunk.js"
   ]
 }
